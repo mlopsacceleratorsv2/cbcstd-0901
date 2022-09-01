@@ -1,6 +1,6 @@
 variables:
   ado_service_connection_aml_ws: Azure-ARM-Dev
-  ado_service_connection_rg: Azure-ARM-Dev-murggu
+  ado_service_connection_rg: Azure-ARM-Dev
   aml_workspace: mlw-$(namespace)-$(postfix)$(environment)
   ap_vm_image: ubuntu-20.04
   application_insights: mlw-$(namespace)-$(postfix)$(environment)
