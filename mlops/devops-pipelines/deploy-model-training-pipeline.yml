@@ -13,7 +13,7 @@ resources:
   repositories:
   - repository: mlops-templates
     name: mlopsacceleratorsv2/mlops-templates
-    endpoint: github-connection
+    endpoint: setuc
     type: github
     ref: main-jul31
 stages:
