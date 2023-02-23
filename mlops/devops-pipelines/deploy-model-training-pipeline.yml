@@ -15,7 +15,7 @@ resources:
     name: mlopsacceleratorsv2/mlops-templates
     endpoint: setuc
     type: github
-    ref: main-jul31
+    ref: main
 stages:
 - stage: DeployTrainingPipeline
   displayName: Deploy Training Pipeline
